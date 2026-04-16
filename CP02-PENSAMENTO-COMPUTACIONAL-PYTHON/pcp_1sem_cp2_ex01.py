@@ -6,7 +6,7 @@ print()
 
 # CONVERSÃO DE TONELADAS PARA QUILOS -->
 peso_kg = (peso_ton * 1000)
-print(f"Peso convertido em kilos: {peso_kg:.2f} Kg")
+print(f"Peso convertido em kilos: {peso_kg:.2f}Kg")
 
 # PREÇO DA CARGA POR KG -->
 def valor_carga_por_kg():
