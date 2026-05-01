@@ -24,7 +24,7 @@ def valor_carga_por_kg():
 
 print(f"O preço da carga: R${valor_carga_por_kg(): .2f}")
 
-# VALOR DOS IMPOSTOS
+# VALOR DOS IMPOSTOS -->
 def valor_imposto():
     if cod_origem == 1:
         return valor_carga_por_kg() * 0.35
